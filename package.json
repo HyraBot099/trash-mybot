@@ -1,7 +1,7 @@
 {
-  "name": "whatsapp-bot",
+  "name": "ChinoBot",
   "version": "1.0.0",
-  "description": "",
+  "description": "Bot punya Surya",
   "main": "index.js",
   "directories": {
     "lib": "lib"
