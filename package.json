@@ -1,7 +1,7 @@
 {
   "name": "ChinoBot",
   "version": "1.0.0",
-  "description": "Bot punya Surya",
+  "description": "Bot punya Surya dan Ruxzy",
   "main": "index.js",
   "directories": {
     "lib": "lib"
